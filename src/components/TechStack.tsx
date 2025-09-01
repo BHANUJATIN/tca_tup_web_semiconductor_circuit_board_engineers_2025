@@ -21,6 +21,10 @@ const TechStack = () => {
   {
     title: "Manufacturing Support",
     items: "Gerber/ODB++ generation, DFM/DFT checks, CAM reviews"
+  },
+  {
+    title: "Lab & Debug Tools",
+    items: "Oscilloscopes, VNAs, Spectrum Analyzers, Logic Analyzers, TDRs, BER Testers"
   }
 ];
 
